@@ -1,0 +1,31 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Robert's blog"
+theme = "internet-weblog"
+SectionPagesMenu = "main"
+Paginate = 10
+
+[params]
+   RSSEnabled = true
+   ShowCopyright = true
+   RSSSections = [ "Posts" ]
+   Description = "This is my little corner of the Internet. Enjoy!"
+
+[author]
+   Handle = "rmrobinson"
+   FirstName = "Robert"
+   LastName = "Robinson"
+   Location = "Kitchener, ON"
+   AboutPage = "/about"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
