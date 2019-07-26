@@ -59,6 +59,7 @@ Our next stop was the Museum of Modern Art, near Central Quay. As we were leavin
 {{< figure title="Manta rays swimming under the crystal sea" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0808.jpg" >}}
 {{< figure title="A wind vane outside the museum" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0824.jpg" >}}
 {{< figure title="Art" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0837.jpg" >}}
+{{< youtube uClv5tZkz6A >}}
 
 The museum was a fun visit, and definitely worth stopping at, but we didn't feel that we had really missed anything when we left an hour later. We took the short walk up Argyle Street and the Arglye Stairs to reach our next destination - the Sydney Bridge Walk. The entrance to the walk is based in a support arch underneath the bridge itself, and it is an impressive structure to walk into. We arrived at the requested time, 15:30, and had a few minutes to relax before getting started. Walking on the bridge isn't exactly like going for a stroll in the park - it is necessary to remove anything loose from your pockets, don a fetching grey coverall suit, put on a full body harness, and then attach a headlamp and headphones for visibility at night/hearing what the guide is saying. Once we were all suited up we went through a practice ladder they had setup to get people used to walking while tethered to the bridge, and to help make sure people weren't going to climb down the ladders incorrectly.
 
