@@ -1,18 +1,15 @@
-+++
-title = "About"
-+++
+---
+title: "About Me"
+type: "about"
+---
 
-# About Me
-
-Hi, I'm Robert Robinson. I'm an entrepreneurial-minded software developer working in the Kitchener-Waterloo area. My focus is back-end software development, with a focus on building scalable, reliable and performant APIs. The majority of my development experience is in C++, Golang and node.js, however I have also worked with PHP and Ruby. I have plenty of experience working in start-up ecosystems - I have been a founding member of two engineering teams, and am currently working with a late-stage startup to address scaling concerns. I have a lot of experience in the wireless telecommunication industry, including building products for Wi-Fi, 3GPP, and DSRC. I have authored several granted US patents.
-
-<br />
+Hi, I'm Robert Robinson. I'm an entrepreneurial-minded software developer working in the Kitchener-Waterloo area. My focus is back-end software development, with a focus on building scalable, reliable and performant systems. The majority of my development experience is in Golang, PHP and C++, however I have also worked with node.js and Ruby. I have plenty of experience working in start-up ecosystems - I have been a founding member of two engineering teams, and am currently working with a late-stage startup to address scaling concerns. I have a lot of experience in the wireless telecommunication industry, including building products for Wi-Fi, 3GPP, and DSRC. I have authored several granted US patents.
 
 ## Work History
 
-### 2017
+### 2017 - Present
 
-I am currently working as a senior software developer on the Backend Foundation squad at <a href="http://www.textnow.com">TextNow</a>.
+I am currently the Principal Developer of <a href="http://www.textnow.com">TextNow</a>, an app-based telecommunications provider, where I drive cross-engineering initiatives to improve system performance and stability. I previously worked on the backend team at TextNow, designing and scaling systems in Golang/MariaDB/redis that handled millions of daily users and hundreds of thousands of requests per minute at peak.
 
 ### 2015 - 2016
 

@@ -1,10 +1,18 @@
-+++
-date = "2015-02-16T22:00:00+07:00"
-draft = false
-title = "Honeymoon Day 10"
-categories = [ "Honeymoon", "Travel", "Thailand" ]
-
-+++
+---
+date: "2015-02-16T22:00:00+07:00"
+draft: false
+title: "Day 10"
+categories:
+  - "Honeymoon"
+  - "Travel"
+  - "Thailand"
+trip:
+  visited_labels:
+  - "THA377"
+  - "THA416"
+summary: "Travel difficulties"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2969.JPG"
+---
 
 Today had its ups and downs. After waking up late a painful sunburn and a mild headache, we packed our things and bode farewell to the Rayaburi Beach Club and Phuket in general. We arrived at the Phuket airport with about an hour and a half before our flight was scheduled to depart, giving us time to check our things and grab a sandwich from Subway before boarding. The flight back to Bangkok was uneventful; there were some people on the flight who were pretty rude when it came time to disembark, there were about 5-7 people who refused to let people seated in rows ahead of them through. In spite of this we were able to get off the plane without any major drama. We retrieved our luggage and then hailed a cab to take us to the Hua Lamphong train station in central Bangkok. Our plan was to buy tickets for the overnight train to Chiang Mai, which was scheduled to depart several hours after we arrived at the train station. Unfortunately this plan did not play out as I had hoped. When we spoke with the ticket agent we were informed that there were no tickets available today to get to Chiang Mai, however if we wanted to wait we could book tickets on the overnight train the following day. This was not ideal, but not a deal breaker, either. The deal breaker, as it turned out, was that there were no tickets on any train returning to Bangkok from Chiang Mai until February 23, which was 2 days after our return flight to Canada! Frustrated, we left the train station, knowing we were going to have to find a hotel in Bangkok for the night. By this point it was just after 5 PM, so it was very unlikely we would be able to get a flight to Chiang Mai tonight. The further complication was that we didn't have access to Wi-Fi so there was no way to book it. I consulted our handy travel guide book and found a hotel just across the river from the train station, so we walked over. After arriving and talking to the front desk we learned that there was, thankfully, a room available for the night. We took a quick look at it, and while it wasn't amazing it was clean and so we decided to take the room. It was only 850 THB, or about $32, which gives a bit of perspective of the quality of the room. It might be the sketchiest hotel I've ever stayed in.
 

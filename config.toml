@@ -1,14 +1,13 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Robert's blog"
-theme = "internet-weblog"
+theme = "hugo-traveler"
 SectionPagesMenu = "main"
 Paginate = 10
 
 [params]
    RSSEnabled = true
    ShowCopyright = true
-   RSSSections = [ "Posts" ]
    Description = "This is my little corner of the Internet. Enjoy!"
 
 [author]
@@ -18,14 +17,14 @@ Paginate = 10
    Location = "Kitchener, ON"
    AboutPage = "/about"
 
-[taxonomies]
-	tag = "tags"
-	category = "categories"
-	series = "series"
+[[menu.main]]
+	name = "Trips"
+	weight = 2
+	identifier = "trips"
+	url = "/trips/"
 
 [[menu.main]]
-	name = "Posts"
-	weight = 1
-	identifier = "posts"
-	url = "/posts/"
-
+	name = "About"
+	weight = 3
+	identifier = "about"
+	url = "/about"

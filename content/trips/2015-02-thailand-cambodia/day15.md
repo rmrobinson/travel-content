@@ -1,10 +1,17 @@
-+++
-date = "2015-02-21T22:00:00+07:00"
-draft = false
-title = "Honeymoon Day 15"
-categories = [ "Honeymoon", "Travel", "Thailand" ]
-
-+++
+---
+date: "2015-02-21T22:00:00+07:00"
+draft: false
+title: "Day 15"
+categories:
+  - "Honeymoon"
+  - "Travel"
+  - "Thailand"
+trip:
+  visited_labels:
+  - "THA416"
+summary: "The long trip home"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_3364.JPG"
+---
 
 Ugh, the last day of our honeymoon was, without a doubt, my longest travel experience, ever. We arrived at BKK around midnight of the 21st, and then spent the next few hours relaxing outside the ANA baggage check area while we waited for the check-in counter to open. We had Burger King for dinner, because it was the only open choice in the airport and we figured it would be a while before we could eat anything else substantial. I spent the next few hours reading 'A Game of Thrones' while Todd napped. At around 4:15 AM the check-in line opened up, so we checked our bags, got our tickets and went through customs and security.
 
@@ -22,5 +29,4 @@ Our flight to DEN ended up leaving IAD about an hour late - first they had troub
 
 We went to the baggage section of Denver, hoping to be able to grab our bags so we could change our clothes and put on some fresh deodorant, however the baggage agent informed us our bags were checked through and weren't available. I guess the agent at Dulles forgot to mark that down, even though we'd talked about it. Luckily the baggage agent provided us with little overnight kits which United has for passengers in situations like ours. After clearing security we went to a washroom and used the provided body wash to clean our faces and the provided deodorant to reduce our smell. We then walked to the gate, and have been sitting here for the last few hours killing time until we board. We watched 'Mean Girls' and an episode of 'Archer', and are planning on starting 'Goldeneye' in about 5 minutes. Our flight to YYZ is still showing as on time, so hopefully nothing stops us now! On the bright side, this detour to Denver should provide some more status miles! Maybe I'll hit E50K this year!
 
-##### Conclusion: After an uneventful flight from DEN to YYZ we cleared Canadian customs and went to retrieve our bags. After waiting for about an hour we discovered that our bags had not, in fact, left Dulles. Due to the weather they didn't make it on to the plane with us, and it seems that the baggage agent at DEN chose not to break the news to us there. We were too exhausted to care, and left YYZ with the promise that the bags would be delivered to our apartment in the next few days. All in all, from the time we left Chiang Mai to the time we arrived in Toronto, we had been travelling for over 50 hours. It was a long and exhausting trip home, but we were so glad it happened on the return flight, and not the start of the trip. We now know that if we can survive the return flight experience, we can travel anywhere together.
-
+After an uneventful flight from DEN to YYZ we cleared Canadian customs and went to retrieve our bags. After waiting for about an hour we discovered that our bags had not, in fact, left Dulles. Due to the weather they didn't make it on to the plane with us, and it seems that the baggage agent at DEN chose not to break the news to us there. We were too exhausted to care, and left YYZ with the promise that the bags would be delivered to our apartment in the next few days. All in all, from the time we left Chiang Mai to the time we arrived in Toronto, we had been travelling for over 50 hours. It was a long and exhausting trip home, but we were so glad it happened on the return flight, and not the start of the trip. We now know that if we can survive the return flight experience, we can travel anywhere together.
