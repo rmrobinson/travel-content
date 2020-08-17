@@ -1,10 +1,21 @@
-+++
-date = "2017-09-28T22:30:00-00:00"
-draft = false
-title = "Iceland Day 9"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-28T22:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "arnarstapi"
+  - "londrangar"
+  - "saxholar"
+  - "gerouberg"
+  - "borgarnes"
+title: "Day 9"
+summary: "The western peninsula"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6593.JPG"
+---
 
 I woke up just before 8 AM, had a quick shower, then started making breakfast for everyone. We had decided to cook at the AirBnB because the town of Arnarstapi didn't really have any restaurants or grocery stores to get supplies at, so we had stocked up the night before. I made scrambled eggs and toast, while some of us also had little yogurt cups we'd picked up in Grundarfjörður. We ate, cleaned up, packed up the car, and were on the road a bit earlier than planned, 9:45 AM. We were going to be touring the western region today, and most of the sites were fairly close together so there would be less driving than yesterday.
 

@@ -1,10 +1,22 @@
-+++
-date = "2017-09-23T21:30:00-00:00"
-draft = false
-title = "Iceland Day 4"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-23T21:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "vik"
+  - "fjorargljufur"
+  - "svartifoss"
+  - "fjallsarlon"
+  - "jokulsarlon"
+  - "hofn"
+title: "Day 4"
+summary: "More rain, more waterfalls, with icebergs"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5640.JPG"
+---
 
 We awoke to the sound of howling winds and heavy rains. When we checked in at the guesthouse, we had been warned that the weather wasn't going to be great, and the warnings were definitely correct. The cabin was built well, however the winds were strong enough to cause the walls of the cabin to move slightly. We quickly packed our things up, then very carefully opened the door of the cabin. It took some body weight to get the door to start to open - the wind was pushing it shut. Once we got the door open a crack, however, the winds picked the door and almost blew it right open. Luckily I had a firm grip on the door handle; even with that advantage I could barely control the door. The rain was coming down heavily, so we threw the suitcases into the car as quickly as we could. We very carefully opened the car doors to prevent the wind from taking a hold of them. We had been warned when we picked up the rental car that the winds could get strong enough to break the car doors, and today was definitely a day where carelessness could have led to a bad ending. We drove from the cabin to the main guesthouse, and had a quick breakfast.
 

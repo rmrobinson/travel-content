@@ -1,12 +1,19 @@
-+++
-date = "2017-09-19T19:00:00-04:00"
-draft = false
-title = "Iceland Day 0"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
+---
+date: "2017-09-19T19:00:00-04:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "reykjavik"
+title: "Day 0"
+summary: "Flying to Reykjavík"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6810.JPG"
+---
 
-+++
-
-The trip to Iceland began mid-afternoon on Tuesday, September 19, 2017. The flight I was scheduled on, WW214, was scheduled to departed from Pearson at 7 PM, so I went into the office and spent the morning and early afternoon finalizing some work projects. I left the office around 2:30 PM, drove home, quickly changed into more comfortable travelling clothes and packed my bags into the car, and left Kitchener just before 3 PM. Thankfully traffic was reasonably light, and I was able to arrive and park at the Park 'N Fly Economy lot shortly after 4 PM. I had checked in online the night before, but I still had to line up to drop off my bag at the WOWAir counter in Terminal 3. The line was short; there was only one WOWAir flight being handled at the baggage counter. I was meeting Kate, Dave, Chris and Susan in Iceland, so after dropping off my bag I proceeded through security on my own.
+The trip to Iceland began mid-afternoon on Tuesday, September 19, 2017. The flight I had booked, WW214, was scheduled to departed from Pearson at 7 PM, so I went into the office and spent the morning and early afternoon finalizing some work projects. I left the office around 2:30 PM, drove home, quickly changed into more comfortable travelling clothes and packed my bags into the car, and left Kitchener just before 3 PM. Thankfully traffic was reasonably light, and I was able to arrive and park at the Park 'N Fly Economy lot shortly after 4 PM. I had checked in online the night before, but I still had to line up to drop off my bag at the WOWAir counter in Terminal 3. The line was short; there was only one WOWAir flight being handled at the baggage counter. I was meeting Kate, Dave, Chris and Susan in Iceland, so after dropping off my bag I proceeded through security on my own.
 
 The security line moved quickly, and shortly after 5 PM I was standing in the Terminal 3 food court. There wasn't going to be any food provided on the flight, so I had dinner at the food court. There were a few decent choices, and I settled on a burrito. It was alright, nothing fancy. As this was the beginning of a vacation, I splurged and ordered the guacamole. After dinner I filled up my 1L Nalgene water bottle, since WOWAir doesn't even include free water. Boarding started right at 6 PM, which was earlier than most other carriers would have done, but it worked well and everyone was on the plane ahead of our 7 PM departure time. The plane took off from one of the runways farthest from the terminal at Pearson; we drove well past the de-icing area in order to reach the runway.
 

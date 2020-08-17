@@ -1,10 +1,21 @@
-+++
-date = "2017-09-25T21:30:00-00:00"
-draft = false
-title = "Iceland Day 6"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-25T21:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "egilsstaoir"
+  - "krafla"
+  - "hverir"
+  - "hverfjall"
+  - "myvatin"
+title: "Day 6"
+summary: "Clear skies & Lake Mývatn"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6205.JPG"
+---
 
 We awoke to a clear and sunny day. We ended up sleeping in a bit because we had been up late taking photos the night before, so we didn't leave Egilsstaðir until about 10:30 AM. After having a quick breakfast at the AirBnB, we packed up the car and got on the road. We filled up the car with diesel before leaving the town, since we had a long drive ahead of us. We headed to Lake Mývatn by way of the ring road.
 
@@ -75,4 +86,3 @@ Once we had taken some pictures we got back into the car and decided to find som
 {{< figure title="The sun setting over Lake Mývatn" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6205.JPG" >}}
 
 Our final activity of the night was a visit to the Mývatn Nature Baths. The nature baths are a series of pools that are naturally heated by geothermal springs in the area. They offer fantastic views of the night sky as there is essentially no light pollution in the area, and if the conditions are right the Aurora Borealis are visible. We arrived just after 8:30 PM, quickly changed and sunk into the warmth of the pool. It was a nice pool, though the waters of the Secret Lagoon were definitely hotter. We relaxed in the water, took in some views of the night sky, but unfortunately we were not treated to a second night of the northern lights. We spent about 75 minutes in the pool before we decided we were done; much relaxing took place in that time. We drove back to guesthouse and had some quiet time before bed. I worked on updating this journal with the last few days of activities before going to sleep just before midnight.
-

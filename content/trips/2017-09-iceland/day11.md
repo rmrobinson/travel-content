@@ -1,12 +1,19 @@
-+++
-date = "2017-09-30T20:00:00-04:00"
-draft = false
-title = "Iceland Day 11"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
+---
+date: "2017-09-30T20:00:00-04:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "reykjavik"
+title: "Day 11"
+summary: "Leaving Reykjavík"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/20170930_142303.jpg"
+---
 
-+++
-
-The last day of the trip. We awoke on our own schedules, showered and finished packing. While I was getting ready Kate and Dave had already grabbed themselves breakfast, so once Susan and Chris were up and showered we ventured out to grab a bite to eat. We ended up going to a Dunkin' Donuts, of all places, since not many breakfast restaurants were open. We had a quick breakfast, then walked around Reykjavik a bit to get some fresh air. Chris, Susan, and I were all on the same flight back to Toronto, scheduled to depart at 3:20 PM, so we were not in a big hurry.
+The last day of the trip. We awoke on our own schedules, showered and finished packing. While I was getting ready Kate and Dave had already grabbed themselves breakfast, so once Susan and Chris were up and showered we ventured out to grab a bite to eat. We ended up going to a Dunkin' Donuts, of all places, since not many breakfast restaurants were open. We had a quick breakfast, then walked around Reykjavík a bit to get some fresh air. Chris, Susan, and I were all on the same flight back to Toronto, scheduled to depart at 3:20 PM, so we were not in a big hurry.
 
 We eventually ended up back at Hallgrimskirkja, where we had parked the car. Our guesthouse did not have parking included, however you can park for free overnight at Hallgrimskirkja, so I had taken the car here the previous evening. We were relived to find the car hadn't been towed. We drove back to the guesthouse, packed in all of our bags, then departed for Keflavik just after 11 AM.
 {{< figure title="Hallgrimskirkja" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6802.JPG" >}}

@@ -1,11 +1,23 @@
-+++
-date = "2017-09-21T22:30:00-00:00"
-draft = false
-title = "Iceland Day 2"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
+---
+date: "2017-09-21T22:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "reykjavik"
+  - "thingvellir"
+  - "kerio"
+  - "strokkur"
+  - "secretLagoon"
+  - "hella"
+title: "Day 2"
+summary: "The driving begins"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5295.JPG"
 
-+++
-
+---
 This was the day our Icelandic road trip really started. We ate a quick breakfast at the AirBnB, packed up the car and were on the road shortly after 9 AM. The weather was overcast and slightly drizzling, however the sun was poking through the clouds so we were optimistic that the day would clear up. We got onto the road and drove towards [Þingvellir National Park](https://en.wikipedia.org/wiki/%C3%9Eingvellir). 
 
 Þingvellir is a national historic site, located just north of Þingvallavatn. The site was the location of the Althing, the national parliament of Iceland, that was established there in 930 AD. The lake, Þingvallavatn, sits at the meeting point of the North American and Eurasian tectonic plates.

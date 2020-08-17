@@ -1,12 +1,24 @@
-+++
-date = "2017-09-24T23:55:00-00:00"
-draft = false
-title = "Iceland Day 5"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
+---
+date: "2017-09-24T23:55:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "hofn"
+  - "djupivogur"
+  - "sveinsstekksfoss"
+  - "breiodalsvik"
+  - "hengifoss"
+  - "egilsstaoir"
+title: "Day 5"
+summary: "Northern lights"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_0004.jpg"
+---
 
-+++
-
-Wee awoke to weather that was overcast and slightly wet, however the wind was quite a bit less intense than it had been yesterday. We were originally scheduled to go kayaking in a glacial lake near the Vatnajökull national park at 9 AM, however we had received notice from the tour company the night before that the kayaking tour had to be cancelled due to high winds. This last-minute cancellation freed up our morning, and we took advantage of this free time to sleep in a bit. Once everyone was awake we made a quick breakfast of scrambled eggs, packed up the car and continued on our way.
+We awoke to weather that was overcast and slightly wet, however the wind was quite a bit less intense than it had been yesterday. We were originally scheduled to go kayaking in a glacial lake near the Vatnajökull national park at 9 AM, however we had received notice from the tour company the night before that the kayaking tour had to be cancelled due to high winds. This last-minute cancellation freed up our morning, and we took advantage of this free time to sleep in a bit. Once everyone was awake we made a quick breakfast of scrambled eggs, packed up the car and continued on our way.
 
 Shortly after leaving Höfn the ring road began to climb and started following the side of the mountain (with the ocean being to the right of the car). This was the first time that the road had really changed in elevation, and it was cool to get a bit of height and see the ocean from a higher vantage point. We stopped at a viewing area and captured a few photos of the ocean, then continued on. As the drive continued we saw a number of waterfalls coming down the side of the mountain and running towards the ocean. It was hard to decide if they are really waterfalls, or if they were just rivers going down particularly steep mountain faces, but either way they were quite beautiful. We had seen many of these over the past few days, however this part of the island seemed to have a higher concentration of them. It could have been that the rain over the past few days had caused the rivers to grow and be easier to see from the road, or it could have just been a geographic difference. Either way, they were quite beautiful.
 {{< figure title="The ocean, as seen from the highway lookout" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5702.JPG" >}}

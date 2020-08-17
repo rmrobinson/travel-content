@@ -1,10 +1,20 @@
-+++
-date = "2017-09-22T23:00:00-00:00"
-draft = false
-title = "Iceland Day 3"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-22T23:00:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "hella"
+  - "seljalandsfoss"
+  - "skogafoss"
+  - "vik"
+title: "Day 3"
+summary: "Rain & waterfalls"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_5455.JPG"
+---
 
 We awoke shortly after 7 AM, got cleaned up, organized, and packed up the car. The AirBnB was pretty small, and wasn't far from the highway, but there was very little noise during the evening so everyone slept well. The AirBnB actually looked like it used to be a gas station, which was a bit amusing, but it was cozy and enjoyable. We didn't have any food with us, so the first order of business was to find something to eat and find some gas for the car. There was a lot of driving ahead of us, and we wanted to make sure the car had a full tank.
 {{< figure title="The view from our AirBnB" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170922_085537262_HDR.jpg" >}}

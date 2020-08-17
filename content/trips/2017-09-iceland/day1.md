@@ -1,10 +1,17 @@
-+++
-date = "2017-09-20T21:30:00-00:00"
-draft = false
-title = "Iceland Day 1"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-20T21:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "reykjavik"
+title: "Day 1"
+summary: "Exploring Reykjavík"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_20170920_105935123.jpg"
+---
 
 The flight landed at the Keflavík International Airport at approximately 4:15 AM, which was about 35 minutes earlier than scheduled. The plane did not park at a gate with a jet bridge, so we had to use the airstairs to disembark. It was quite chilly stepping off the plane; however a flight attendant had warned us of the cooler temperature so I had put my hoodie and vest on. I cleared immigration quickly, and my backpack was one of the first bags out in the baggage claim area. I met up with Kate and Dave in the arrivals area shortly after 4:45 AM. Their flight had arrived about an hour ahead of mine, and they had just been waiting in the terminal for me to arrive.
 

@@ -1,10 +1,19 @@
-+++
-date = "2017-09-29T21:30:00-00:00"
-draft = false
-title = "Iceland Day 10"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-29T21:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "borgarnes"
+  - "hraunfossar"
+  - "reykjavik"
+title: "Day 10"
+summary: "Completing the loop"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6731.JPG"
+---
 
 Today was the day that we completed the loop of Iceland. We got up and left the hotel just before 10 AM. We grabbed a quick breakfast at the Geirabakari Kaffihus on the edge of town. We only had one sight to see day, so after filling up the car with diesel we began the drive out of Borgarnes.
 

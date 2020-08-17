@@ -1,10 +1,22 @@
-+++
-date = "2017-09-26T23:30:00-00:00"
-draft = false
-title = "Iceland Day 7"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-26T23:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "myvatin"
+  - "dettifoss"
+  - "asbyrgi"
+  - "husavik"
+  - "godafoss"
+  - "akureyri"
+title: "Day 7"
+summary: "Whale watching in Húsavík"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6367.JPG"
+---
 
 The day began with dry and slightly overcast conditions around 8:00 AM; we packed up the car then had a quick continental breakfast in the main guesthouse building. The first stop of the day was at the Dimmuborgir lava formations, the last of the sites we were going to see at Lake Mývatn. The lava formations were a short drive from the guesthouse, and once we arrived we started out on a walk around the area. There were a number of walking paths; we chose a path that took us about 1 hour to complete. The walk provided us with a number of beautiful views of the lava towers which had formed when the area was covered with water. These formations are apparently unique to this area - the only other places similar structures have been found are underneath the ocean off the coast of Mexico. It was a beautiful morning, and the fall colours of the trees in the area only added to the beauty of the walk.
 {{< figure title="A lava formation" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6222.JPG" >}}

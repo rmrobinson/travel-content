@@ -1,10 +1,19 @@
-+++
-date = "2017-09-27T23:30:00-00:00"
-draft = false
-title = "Iceland Day 8"
-categories = [ "Travel", "Iceland", "2017 Iceland Adventure" ]
-
-+++
+---
+date: "2017-09-27T23:30:00-00:00"
+draft: false
+categories:
+  - "2017 Iceland Adventure"
+  - "Travel"
+  - "Iceland"
+trip:
+  visited_labels:
+  - "akureyri"
+  - "kirkjufell"
+  - "arnarstapi"
+title: "Day 8"
+summary: "Driving past Kirkjufell"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2017-09-iceland/IMG_6434.JPG"
+---
 
 We started our morning a bit later than usual, setting the alarm for 8:00 AM instead of the 7:00 AM that had become standard. We had a long day of driving ahead of us, with not many sites to see, so we decided to get a bit of extra rest. We were up and packed by around 9, then walked to a nearby grocery store to pick up breakfast and lunch. We ate quickly, packed up the car, and left Akureyri just after 10 AM. Our destination was the west end of the island, near the Þjóðgarðurinn Snæfellsjökull national park.
 
