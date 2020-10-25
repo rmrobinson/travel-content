@@ -1,5 +1,5 @@
 ---
-title: "Driving around Iceland"
+title: "Driving Highway 1"
 summary: "Iceland in the Fall"
 map:
   files:

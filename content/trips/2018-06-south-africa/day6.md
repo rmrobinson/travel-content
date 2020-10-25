@@ -1,10 +1,18 @@
-+++
-date = "2018-06-20T21:00:00+02:00"
-draft = false
-title = "South Africa Day 6"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-20T21:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "stlucia"
+  - "mbabane"
+title: "Day 6"
+summary: "Visiting a game park"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8361.jpg"
+---
 
 The fifth day of the tour started with another early morning. We woke up shortly before 5:00 and were showered, packed, and ready to go at 6:00. We didn't eat breakfast before leaving the hotel - instead we picked up a boxed breakfast we could eat on the bus. We boarded the bus and were leaving the hotel shortly after 6:00. Why were we up so early? We were going on a game drive through a game park and the earlier you start the greater the chances of seeing animals! The bus arrived at the Hwang-Imfulu private game park around 6:45, the site of our game drive. The tour group was broken up into 4 groups for the drive - there ended up being 2 groups of 10 people, and 2 groups of 9 (the tour had 38 people). The groups split apart, met the ranger who would be guiding them on the drive, and then got into their assigned jeep. The jeeps pulled out of the parking lot and into the park just after 7:00. The jeeps were designed for game drives - they were open on all 4 sides and had 3 rows of seating installed on top of the back of the vehicle, giving everyone an elevated and mostly unobstructed view of the park.
 

@@ -1,10 +1,17 @@
-+++
-date = "2018-06-26T17:50:00+02:00"
-draft = false
-title = "South Africa Day 12"
-categories = [ "Travel", "France", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-26T17:50:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - ""
+title: "Day 12"
+summary: "Paris"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_9224.jpg"
+---
 
 The last day of our trip began in the air. Our trip home had a layover in Paris; and because we had taken off from Johannesburg in the evening our flight to Paris was about half over when the clock struck midnight. We watched a bit of TV prior to being served dinner on the flight, then both Todd and I spent most of the remainder of the flight trying to sleep.
 

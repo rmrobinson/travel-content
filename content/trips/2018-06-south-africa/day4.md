@@ -1,10 +1,17 @@
-+++
-date = "2018-06-18T19:00:00+02:00"
-draft = false
-title = "South Africa Day 4"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-18T19:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+title: "Day 4"
+summary: "Hiking Lion's Head"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_7963.jpg"
+---
 
 We were originally scheduled to go cage diving with great white sharks off the coast of South Africa today. Unfortunately, the diving was cancelled due to inclement weather - high winds were forecast and the dive boat was not going to be able to leave the harbour. We had learned this the previous afternoon, which gave us time to organize alternative activities to keep us busy. We slept in a bit and had breakfast at 8:00; we were showered and ready to go shortly before 10:00. The rain was not forecast to start until 13:00, so we decided that our first activity would be a hike up Lion's Head mountain. We had hoped to take the gondola up Table Mountain, however high winds had closed the gondola for a second day in a row.
 

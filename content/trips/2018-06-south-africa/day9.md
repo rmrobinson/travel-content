@@ -1,10 +1,19 @@
-+++
-date = "2018-06-23T20:00:00+02:00"
-draft = false
-title = "South Africa Day 9"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-23T20:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "hazyview"
+  - "dullstroom"
+  - "johannesburg"
+title: "Day 9"
+summary: "The Panorama route to Joburg"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8919.jpg"
+---
 
 The eighth day of the tour began at a reasonable 6:00 with a wake up call. We got up, showered, packed, had breakfast, and were the on bus just before 7:30. This was set to be a long day of driving - our destination was Johannesburg and there were 400 km of road between us and it. The beginning of our drive followed the Panorama route, a series of fantastic natural views in the Mpumalanga province.
 

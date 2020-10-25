@@ -1,17 +1,23 @@
-+++
-date = "2018-06-14T22:30:00+02:00"
-draft = false
-title = "South Africa Day 0"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-14T22:30:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+title: "Day 0"
+summary: "Flight to Cape Town"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_0893.jpg"
+---
 
 The trip to South Africa began in the early afternoon on Wednesday, June 13, 2018. Our first flight, KLM 692, was scheduled to depart from Pearson at 5:15 PM, so we had the car packed and departed from Kitchener shortly before 1 PM. Traffic was a breeze, and we arrived at the Park N' Fly Self-Park lot shortly before 2 PM. We had checked in online the afternoon before, however we still had to get into line to check our bags at the KLM drop-off point in Terminal 3. The line moved quickly, and after clearing security we had about 2 hours before our flight was scheduled to begin boarding. We walked around the secured area in Terminal 3 for about an hour, then had a quick lunch at Smash Burger before walking back to our gate. We chatted while waiting for boarding to begin, and once people began lining up shortly after 4 PM we got into line. We were in Zone 5 and thus were amongst the last to board, however there was tons of space in the overhead bins when we got to our seats so we did not need to squish our backpacks underneath the seats in front of us. Our plane, named City of Hongkong, was a 747-400. Our seats were right over the wing on the left side of the plane, and while they were not large there was still enough leg room that we didn't feel squished. We ended up taking off shortly before 6 PM - the plane had to queue prior to take off and so our departure was slightly delayed. Once in the air I watched the second Kingsman film then spent the remainder of the flight getting some sleep. Todd watched Game Night, Ladybird, and then 3 Billboards outside Ebbing Missouri. We made up the delay in the air and landed shortly ahead of schedule at Schiphol International Airport in Amsterdam shortly after 6:00 local time.
 
 {{< figure title="The City of Hongkong at the gate" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_0882.jpg" >}}
 
 We deplaned without issue, then walked the terminal to find the gate of our connecting flight. We did not need to clear EU customs or security as long as we stayed in the terminal, which made this a very easy airport for connections. When we reached our new gate it was empty, as boarding was scheduled to begin in about 2.5 hours. We used this time to wander through the terminal. We found some interesting artwork, recharged our phones and then did our language practice for the day (Spanish for myself; French for Todd). We picked up some breakfast at McDonald's shortly after 8:30, then walked back to our gate and waited for boarding to begin.
-
 
 {{< figure title="The Schiphol airport had some non-standard seating" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_0885.jpg" >}}
 

@@ -1,10 +1,17 @@
-+++
-date = "2018-06-25T18:00:00+02:00"
-draft = false
-title = "South Africa Day 11"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-25T18:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "johannesburg"
+title: "Day 11"
+summary: "Constitution Hill"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_9151.jpg"
+---
 
 We spent the last full day of our trip to South Africa on our own. We slept in, had a lazy breakfast in the hotel restaurant, and enjoyed the freedom of not being on a schedule. The first leg of our flight home was scheduled to depart Johannesburg at 18:50, giving us a half day to do whatever we wanted. We were allowed to check out late from the hotel; the time coinciding with our shuttle's scheduled departure for the airport - 2:30 PM. I had done a bit of research on things to see in Johannesburg the previous day, and we decided to spend the morning visiting Constitution Hill. It was a 20 minute drive from the hotel, and shortly after 9:15 I booked us an Uber and we were off.
 

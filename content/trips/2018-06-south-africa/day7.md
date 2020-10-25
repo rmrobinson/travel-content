@@ -1,12 +1,20 @@
-+++
-date = "2018-06-21T20:30:00+02:00"
-draft = false
-title = "South Africa Day 7"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
+---
+date: "2018-06-21T20:30:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "mbabane"
+  - "hazyview"
+title: "Day 7"
+summary: "Visiting eSwatini"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8447.jpg"
+---
 
-+++
-
-The sixth day of our tour was my birthday! As a nice change of pace we did not have to get up particularly early - our wake up call came at 7:00 and the bus was not scheduled to leave the hotel until 8:30. We were up shortly before 7:00, had breakfast at the hotel restaurant, and had everything packed up by about 8:15. The bus left the hotel on schedule and drove us through the capital of Eswatini - Mbanbane. This gave us the opportunity to learn a bit more about the Eswatini people as Belinda narrated our tour through the city. This was a lucky day for us - it was our turn at the front of the bus! This gave us a great view of Mbanbane and the Eswatini countryside as we drove inwards.
+The sixth day of our tour was my birthday! As a nice change of pace we did not have to get up particularly early - our wake up call came at 7:00 and the bus was not scheduled to leave the hotel until 8:30. We were up shortly before 7:00, had breakfast at the hotel restaurant, and had everything packed up by about 8:15. The bus left the hotel on schedule and drove us through the capital of Eswatini - Mbabane. This gave us the opportunity to learn a bit more about the Eswatini people as Belinda narrated our tour through the city. This was a lucky day for us - it was our turn at the front of the bus! This gave us a great view of Mbabane and the Eswatini countryside as we drove inwards.
 
 {{< figure title="Front of the bus view of a bridge crossing the Komati River" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8464.jpg" >}}
 {{< figure title="Looking back at the bridge" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8471.jpg" >}}

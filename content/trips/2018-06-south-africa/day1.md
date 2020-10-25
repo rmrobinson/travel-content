@@ -1,10 +1,17 @@
-+++
-date = "2018-06-15T20:00:00+02:00"
-draft = false
-title = "South Africa Day 1"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-15T20:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+title: "Day 1"
+summary: "Touring Cape Town"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_7004.jpg"
+---
 
 We were exhausted from our previous day of travel, so we didn't wake up until 10:40. We quickly showered, got dressed and packed up, and went down to the hotel lobby to check out at 11:40. We had booked our first night separate from the tour group, so even though it was in the same hotel we had to change rooms. We were planning on leaving our bags with the hotel until we were able to check in later in the day, however our room was ready for us so we dropped our bags in our new room then went back down to the lobby. We got into the hotel shuttle, which went between the hotel and the V&A Waterfront, shortly before noon. We were the only passengers in the shuttle, and got to the waterfront just before the rain began. We wandered a bit aimlessly for the first 30 minutes or so, looking out at the ocean, wandered through a mall and then started looking at our options for lunch. We hadn't eaten for almost 18 hours at this point, and we were getting hungry. We ended up settling on pizza, ate quickly then continued on.
 

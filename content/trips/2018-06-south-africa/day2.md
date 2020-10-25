@@ -1,10 +1,19 @@
-+++
-date = "2018-06-16T18:15:00+02:00"
-draft = false
-title = "South Africa Day 2"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-16T18:15:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+  - "capeofgoodhope"
+  - "simonstown"
+title: "Day 2"
+summary: "Visiting the Cape"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_7419.jpg"
+---
 
 The first day of our tour started early in the morning. We woke up at around 5:30, quickly showered (no wasting of water in Cape Town!), got ready, and went to the hotel dining room for breakfast at 6:30. The breakfast was a buffet with a plethora of choices - I had an omelette with ham, bacon, onions, mushrooms and peppers; Todd had fruit, yogurt, baked eggs and bacon. The tour was scheduled to start at 7:15, so after breakfast we went to a meeting room on the first floor of the hotel to kick things off. It began with us meeting our tour manager, Belinda, and the other members of the tour. Over the next 45 minutes Belinda ran through introductions, covered the tour logistics, and answered some initial questions. The meeting wrapped up several minutes before 8; after a quick detour to our room to grab a sweater and camera we rejoined the group on the tour bus which had pulled up in front of the hotel. We had been assigned a seat at the back right side of the bus; the seat assignments rotated on a fixed schedule to prevent seating conflicts during the tour.
 

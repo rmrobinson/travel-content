@@ -1,10 +1,18 @@
-+++
-date = "2018-06-22T16:30:00+02:00"
-draft = false
-title = "South Africa Day 8"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-22T16:30:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "hazyview"
+  - "kruger"
+title: "Day 8"
+summary: "Kruger National Park"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8614.jpg"
+---
 
 The seventh day of our tour started early - we awoke at 4:30, showered, got dressed and left our hotel room shortly before 5:30. We picked up a packed breakfast on our way to the bus, and the bus pulled out of the hotel parking lot at 5:30 sharp. Our destination was Kruger National Park - the site of the full-day safari we were taking. The drive to the Phabeni Gate took about 25 minutes, and we pulled in to Kruger National Park minutes before 6:00. The sun was still down, but the sky was starting to lighten.
 

@@ -1,10 +1,17 @@
-+++
-date = "2018-06-24T16:45:00+02:00"
-draft = false
-title = "South Africa Day 10"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-24T16:45:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "johannesburg"
+title: "Day 10"
+summary: "The legacy of apartheid"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_9100.jpg"
+---
 
 The ninth day of the tour was the last one with scheduled activities. We had a relatively late 7:00 wake-up call, ate breakfast in the hotel and were back on the bus at 8:30. Belinda had given up her role as guide for the day, and instead a local guide from Johannesburg joined us. The itinerary for the day had us visiting a number of points of interest around Johannesburg, and the local guide was going to provide us with some local history and knowledge as we drove from point to point. Belinda had discovered she had missed my birthday yesterday, and she decided to compensate by treating today as my birthday. It was a coincidence but there was another person on the tour whose birthday was actually June 24, so Belinda announced the two birthdays before the bus departed.
 

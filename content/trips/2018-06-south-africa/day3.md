@@ -1,10 +1,17 @@
-+++
-date = "2018-06-17T21:45:00+02:00"
-draft = false
-title = "South Africa Day 3"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-17T21:45:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+title: "Day 3"
+summary: "Cape Town"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_0947.jpg"
+---
 
 The second day of the tour started at a slightly more reasonable hour; we were up at 6:00 and were down for breakfast shortly after 7:00. The breakfast buffet was just as well-appointed as it had been the day before, and we had a leisurely and enjoyable breakfast. We were on the bus with time to spare; it departed at 8:00. The first destination of the way was Table Mountain. The plan was to take the gondola to the top of the mountain; unfortunately when we arrived at the gondola station it was too windy for the gondola to run. Instead of Table Mountain we took a short detour onto Signal Hill, where we were treated to great views of Robben Island, the Lion's Head and Table Mountain. Signal Hill earned its name in the previous centuries, where it communicated with ships in the Cape Town harbour. I had expected Robben Island to appear similar to Alcatraz, however it was both farther out from the city and much flatter, so it was difficult to discern any structures on the island from the mainland. The views of Lion's Head and Table Mountain were both quite impressive. We spent about 15 minutes looking around and taking photos before re-boarding the bus and continuing on.
 

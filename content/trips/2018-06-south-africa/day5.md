@@ -1,10 +1,19 @@
-+++
-date = "2018-06-19T20:00:00+02:00"
-draft = false
-title = "South Africa Day 5"
-categories = [ "Travel", "South Africa", "2018 South Africa Adventure" ]
-
-+++
+---
+date: "2018-06-19T20:00:00+02:00"
+draft: false
+categories:
+  - "2018 South Africa Adventure"
+  - "Travel"
+  - "South Africa"
+trip:
+  visited_labels:
+  - "capetown"
+  - "durban"
+  - "stlucia"
+title: "Day 6"
+summary: "Cruising the St. Lucia estuary"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8150.jpg"
+---
 
 The fourth day of the tour started with an early morning wake up call. We woke up at 4:45, got packed up and were having breakfast in the hotel restaurant shortly after 5:45. We were in the lobby shortly after 6:15 and were loaded into the bus and on our way to the Cape Town International Airport at 6:30 sharp. Our flight to Durban, BA 6315, was scheduled to depart at 8:55, and we made it to the airport with plenty of time to spare. After checking our bags we had exactly 1 hour before boarding, so Todd and I wandered around the terminal and then sat and read the news for a bit before boarding.
 
