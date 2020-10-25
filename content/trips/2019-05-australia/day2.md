@@ -1,10 +1,17 @@
-+++
-date = "2019-05-21T21:00:00+10:00"
-draft = false
-title = "Australia Day 2"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-21T21:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+title: "Day 2"
+summary: "Crossing a bridge"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/521154552.jpg"
+---
 
 We had a good sleep and woke up as if we hadn't flown halfway around the world less than a day before. We woke up at roughly 7:30, and then had a bit of a leisurely morning. This was going to be our only quiet morning for several days, so we made the most of it. We got up, got ready for the day, and went down to have breakfast at the hotel. It was a hot buffet with a wide range of food choices, and we made sure to fill up in anticipation of a long day out. We left the hotel shortly after 9:30, and began by walking back to the Anzac memorial. The sun was shining brightly as we reached the memorial - the morning fog had not completely lifted, and it shimmered as the sun reached down through the trees lining the path up to the reflecting pool. The Anzac monument was constructed to memorialize the members of the Australian armed forces who died fighting in World War 1. It is an impressive three story structure that was constructed in the early 1930s.
 

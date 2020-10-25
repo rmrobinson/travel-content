@@ -1,10 +1,18 @@
-+++
-date = "2019-05-27T21:00:00+10:00"
-draft = false
-title = "Australia Day 8"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-27T21:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "cairns"
+  - "kuranda"
+title: "Day 8"
+summary: "Train to Kuranda"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1665.jpg"
+---
 
 Today was a combination of a couple things that I really enjoy - travel and trains! We took the [Kuranda Scenic Railway](https://www.ksr.com.au/) from Cairns to Kuranda, which was something I had booked ahead of time in order to guarantee us seats on the train.
 

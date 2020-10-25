@@ -1,5 +1,5 @@
 ---
-title: "A honeymoon in Thailand"
+title: "Our honeymoon"
 summary: "Thailand and Cambodia"
 map:
   files:

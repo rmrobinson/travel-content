@@ -1,10 +1,17 @@
-+++
-date = "2019-06-01T20:30:00+10:00"
-draft = false
-title = "Australia Day 13"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-06-01T20:30:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+title: "Day 13"
+summary: "Taronga Zoo"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_3055.jpg"
+---
 
 The sun was still rising when we got up this morning. After a quick breakfast we left the AirBnB and walked to the Museum subway stop, the first stop on our trip to reach the [Taronga Zoo](https://taronga.org.au/sydney-zoo). We took the subway towards Circular Quay, and disembarked at the station there just before 9:20. There were several routes we could have taken public transit to reach the zoo; we chose the route that includes a ferry trip from the Central Business District to the Taronga Zoo Wharf as it would be the fastest. The Sydney public transit network includes a number of ferry routes which also use the Opal cards, which made it easy to transfer from the subway to the ferry at the Central Quay station. We were aiming to take the 9:20 ferry from Circular Quay to the Taronga Zoo Wharf, however we didn't know which pier the ferry was departing from and we weren't able to find the pier before the ferry pulled away.  While we waited for the next ferry to arrive I got a coffee, and then we waited on Pier 4. It didn't take long before the next ferry docked, and we boarded ahead of a good sized crowd. We were able to grab seats on the second level at the back, which was uncovered, anticipating good views of the harbour on the ride over. Right at 9:40 the engines revved and we began pulling back from the wharf.
 

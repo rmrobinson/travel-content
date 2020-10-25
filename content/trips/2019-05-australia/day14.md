@@ -1,10 +1,17 @@
-+++
-date = "2019-06-02T20:30:00+10:00"
-draft = false
-title = "Australia Day 14"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-06-02T20:30:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+title: "Day 14"
+summary: "Beach Day"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/IMG_20190602_140553.jpg"
+---
 
 We had a slow start to the morning after staying up late dancing the night away. We slept in until around 9:00, and were in no rush as we had breakfast and got ready for the day. We left the AirBnB shortly before 11:00, and spent what remained of the morning exploring the gay village in Sydney. This area, known as Darlinghurst, is where the majority of gay themed stores and bars are. The major road is named Oxford Street, and it reminded us a lot of Church Street in Toronto. We poked our heads in to a number of the businesses along Oxford Street, and at one store I picked up a cute rainbow tie to wear during Pride Month at work. We spent about an hour and a half exploring, then returned to the AirBnB for a quick lunch.
 

@@ -1,10 +1,18 @@
-+++
-date = "2019-05-25T14:00:00+10:00"
-draft = false
-title = "Australia Day 6"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-25T14:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "millnreef"
+  - "cairns"
+title: "Day 6"
+summary: "Returning to land"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0950.jpg"
+---
 
 Our final day on the Great Barrier Reef, like many of our days on this trip, began early. Our first dive, on Flynn reef at a dive site named Little Tracy, was a dawn dive. We woke up at 5:45, had our dive briefing at 6:00, and after getting suited up and completing our buddy checks jumped into the water right at 6:30. The sun was starting to rise as we began descending. The dive site was adjacent to the Gordon's mooring dive from yesterday; we swam from the anchor to a bommie named Little Tracy that we circled. The dive plan was pretty straightforward, but it gave us some pretty neat views. As we were swimming from the anchor to Little Tracy we encountered a small coral outcropping that had close to thirty large bumphead parrotfish that were just sitting there, chilling in a tight group. It was a fantastic thing to see as we started the day. Once we reached Little Tracy we swam clockwise around the coral, encountering several razorfish, a few moorish idols, and some surf parrotfish. There were obviously many other fish we saw; those were just the ones I could identify. We completed the loop of Little Tracy with about 90 bar remaining; we swam back to the gates from the previous day's dive and did our safety stop on top of the gates. We didn't see any turtles, though once we were back on the boat we heard several people say they saw a turtle around the gates.
 

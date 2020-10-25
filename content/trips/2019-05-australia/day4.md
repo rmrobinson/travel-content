@@ -1,10 +1,18 @@
-+++
-date = "2019-05-23T20:30:00+10:00"
-draft = false
-title = "Australia Day 4"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-23T20:30:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "cairns"
+  - "millnreef"
+title: "Day 4"
+summary: "Diving the Great Barrier Reef"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/FHD0344.jpg"
+---
 
 This was the first day on the scuba liveaboard! We were up early, it was still dark outside when the alarm went off at 5:15. A quick peek outside showed that it was lightly raining, but we weren't too worried about the weather as it was forecast to clear up later in the morning. We got dressed, packed up and checked out about 45 minutes later. It was still dark and wet while we waited for our transportation to the dive shop to appear. The dive shop had scheduled for us to be picked up shortly after 6:00, and a small minibus with the Pro Dive logo pulled up to the hotel right on time. The minibus that pulled up had seating for 11 people, however it did not have space in the back for bags so we stacked them up at the front, just behind the driver. We were the second pair of people being picked up so there was still space for our bags, however the bus made several more stops afterwards and by the time all eleven seats were full the bus was pretty packed. We were shuttled to the dive shop where final details were confirmed and gear was retrieved. After a short stop we loaded back up into the bus and were driven a couple blocks down to the pier where the boat we would be calling home for the next few days was docked.
 

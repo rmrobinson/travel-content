@@ -1,10 +1,17 @@
-+++
-date = "2019-05-24T10:15:00+10:00"
-draft = false
-title = "Australia Day 5"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-24T10:15:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "millnreef"
+title: "Day 5"
+summary: "PADI Certified!"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/FHD0265.jpg"
+---
 
 We woke up at 6:30, and were greeted by a gorgeous sunrise over the reef. The first dive was scheduled at 7:15, so after quickly getting dressed in our bathing suits we were out on the deck getting suited up. As we were getting ready the boat moved to a new dive site on the same reef. Once the boat was in position we did our standard buddy checks then jumped into the cool water. Our third training dive was pretty simple, skill wise - we demonstrated descending just with a visual reference, and once we reached the bottom we completely removed our masks and then practised putting them back on and clearing them. I had to be careful to keep my eyes closed when replacing the mask as I had my contacts in, however it went smoothly. We then showed we could orally inflate our BCD underwater to establish neutral buoyancy; once we had completed this task we got to explore the new dive site (called the Three Sisters). This site got its name from three underwater rock formations that look like sisters, and these formations each had tons of coral built up on and around them. We saw a small white-tipped reef shark shortly after we began our exploration - it was chilling on the sandy bottom of the ocean near one of the sisters. It was really cool to see! Once we passed the shark we continued on, where we saw a unicorn fish, and some really dense schools of fish swim around us. The sea life at this dive site was much more abundant as compared to our previous dive site, and it was really exciting to experience.
 

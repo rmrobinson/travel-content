@@ -1,10 +1,20 @@
-+++
-date = "2019-05-18T18:00:00-04:00"
-draft = false
-title = "Australia Day 0"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-flights = [ "AC759", "QF12" ]
-+++
+---
+date: "2019-05-18T18:00:00-04:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+flights:
+  - "AC759"
+  - "QF12"
+title: "Day 0"
+summary: "Flight to Sydney"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/IMG_20190518_211334.jpg"
+---
 
 Our trip to Australia began around lunchtime on Saturday, May 18, 2019. We had scheduled a pickup with United Taxi at 12:15, and the driver arrived at our house several minutes early. We had finished packing the night before, so we were ready and waiting to go. We got into the cab and had an uneventful drive to Pearson. The first leg of our trip was on Air Canada, so the cab dropped us off at the Terminal 1 US area and we proceeded to the US check-in counter. We had checked in the evening before, and used the kiosks to print boarding passes, however had to line up and wait to speak with an agent in order to get our luggage tags. The line wasn't very long, and when we got to speak with an agent we discovered that they simply had to confirm that our Australian visas had been properly processed. Once she was able to confirm everything was in order we were good to go.
 

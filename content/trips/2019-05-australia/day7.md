@@ -1,10 +1,19 @@
-+++
-date = "2019-05-26T21:00:00+10:00"
-draft = false
-title = "Australia Day 7"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-26T21:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "cairns"
+  - "millamilla"
+  - "curtainfigtree"
+title: "Day 7"
+summary: "Wooroonooran National Park"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1229.jpg"
+---
 
 Today was a first - driving on the left side of the road! I had booked a rental car for the day so that we could drive south of Cairns and visit Wooroonooran National Park. We woke up early, got ready, and then took an Uber to the Cairns Central grocery store. Here we picked up supplies for lunch and some snacks for the day, then walked over to the [Budget](https://www.budget.com.au/en/locations/au/ql/cairns/cn1) car rental office (located across the street from the Cairns Aquarium). I had booked a sedan, however they did not have any available so we were upgraded to a Mitsubishi Outlander. The pickup was easy, and shortly 9:00 we were pulling out of the parking lot. We stopped by a McDonald's on the way out of town so I could get a coffee, then started our drive south. Driving on the left side of the road initially took some mental effort, but before we left Cairns it was already starting to feel natural.
 

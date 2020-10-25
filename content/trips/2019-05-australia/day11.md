@@ -1,10 +1,18 @@
-+++
-date = "2019-05-30T20:30:00+10:00"
-draft = false
-title = "Australia Day 11"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-30T20:30:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "newcastle"
+  - "sydney"
+title: "Day 11"
+summary: "Back to Sydney"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1802.jpg"
+---
 
 This was the day we returned to Sydney. We got up around 7:00, had breakfast, and packed our things. We had a leisurely chat with Jeff and Marilyn over coffee, and then got into the car around 9:00. They took us for a bit of drive to Lake Macquarie, a saltwater lake just south of Newcastle that connects into the ocean. We got out and walked around the lake for about 30 minutes - it was a bit cooler than yesterday, but the wind had died down so with the sun out it was a nice temperature. We got back in the car and they drove us to our next destination, the [Blackbutt Nature Reserve](http://www.newcastle.nsw.gov.au/Blackbutt-Reserve/Home.aspx). This small zoo was located in a park near Kotara, and had a small selection of animals that we could see as we walked along an elevated pathway. We saw wallabys, koalas, red-tailed black cockatoos, finches, king parrots, barking owls, black-winged stilts, emus, and kangaroos. It was a pretty nice little setup; it was interesting to learn that Jeff used to run a feed supply business that supplied birdseed and other food to the city that was used to feed these animals. We spent about 30 minutes here before getting back in the car.
 

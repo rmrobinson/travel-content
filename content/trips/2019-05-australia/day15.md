@@ -1,11 +1,20 @@
-+++
-date = "2019-06-03T23:00:00+10:00"
-draft = false
-title = "Australia Day 15"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-flights = [ "QF73", "AC750" ]
-
-+++
+---
+date: "2019-06-03T23:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+flights:
+ - "QF73"
+ - "AC750"
+title: "Day 15"
+summary: "Seeing art & flying home"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_3213.jpg"
+---
 
 We were on a schedule from the time we woke up this morning - we had to be packed up and checked out of the AirBnB by 11:00. We didn't get up early but also didn't really sleep in; after having breakfast and making lunch for the day we tidied the unit up, took out the trash and recycling, and completed our final packing. The one downside of staying at an AirBnB is that you don't just get to leave your mess, so we had to budget some extra time into the schedule to handle the housekeeping items. We were completely packed and ready to go at 10:15, so we ended up leaving a bit early. We returned the key and then walked to Central station.
 

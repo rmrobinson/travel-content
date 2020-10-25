@@ -1,11 +1,21 @@
-+++
-date = "2019-05-28T22:00:00+10:00"
-draft = false
-title = "Australia Day 9"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-flights = [ "TT677" ]
-
-+++
+---
+date: "2019-05-28T22:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "cairns"
+  - "sydney"
+  - "newcastle"
+flights:
+ - "TT677"
+title: "Day 9"
+summary: "Onwards to Newcastle"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1710.jpg"
+---
 
 Today was a travel day. We slept in a bit later than usual, as our flight wasn't scheduled until late in the morning. We didn't have much to do at the AirBnB except finish packing and give the place a final clean. We headed to the Cairns airport via an Uber around 8:45. It was a short drive, and we arrived shortly before 9:00. We had a bit of a quirky driver, he was super friendly but apparently didn't believe in wearing shoes while driving. Once at the airport we checked in and cleared security without any issues; both the baggage and security lines were thankfully short. We grabbed a quick breakfast at the airport, then settled into a pair of comfy chairs and waited for boarding to commence. Our flight was scheduled to depart at 10:55, so we had lots of time before our flight. I went through the photos on my camera and began deleting duplicate or blurry photos, while Todd read. Our flight ended up being delayed by about 15 minutes due to the late arrival of the inbound aircraft, but it wasn't a big deal, and shortly after 11:10 we took off.
 

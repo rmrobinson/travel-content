@@ -1,10 +1,17 @@
-+++
-date = "2019-05-29T15:15:00+10:00"
-draft = false
-title = "Australia Day 10"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-29T15:15:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "newcastle"
+title: "Day 10"
+summary: "Touring Newcastle"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1702.jpg"
+---
 
 We woke up to the sounds of cockatoos outside our window shortly after 7:00. We both had a fantastic sleep, and so we felt very refreshed as we got up, got cleaned up, and had breakfast with Jeff and Marilyn. They had offered to show us around the Newcastle area, and shortly before 9:00 we got into their car and began our day. We started by driving into Newcastle itself, a trip that took about half an hour or so. As we were getting into the downtown core we caught a glimpse of their new LRT line, which went into service earlier this year. This LRT was notable as it had a pantograph but there was no overhead caternary - the train car was powered by a large capacity battery that recharged itself at each station vs. drawing it's electricity through a caternary system. I thought this was pretty ingenious, and it was cool to see in operation!
 

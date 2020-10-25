@@ -1,10 +1,17 @@
-+++
-date = "2019-05-20T19:00:00+10:00"
-draft = false
-title = "Australia Day 1"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-20T19:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+title: "Day 1"
+summary: "Touring the Sydney Harbour"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0062.jpg"
+---
 
 Once we had cleared Australian customs our first day in Sydney could begin! We made our way to the subway station that is attached to the international terminal, as we wanted to take the train into the city. The New South Wales region has a combined transit system with a single card for fares, named Opal. This card allows you to load money onto it, and then tap it as you get on or off your mode of transport to charge for your trip. We decided that it made sense to pick up an Opal card vs. purchasing one-way trip tickets as we were going to be taking public transit for several of our trips and so the discount of having the card would be worth the effort of holding onto it for the duration of our stay. We got on the Airport Link train (aka T8) headed into the city, and about 15 minutes later got off at the Museum station stop. The train was fairly busy - there were a number of commuters were on the train - but we were able to find space for ourselves and our bags near the carriage door. We then had a quick ten minute walk from the Museum station to our first hotel of the trip, the [Sydney Boulevard Hotel](https://www.sydneyboulevard.com.au/). We arrived shortly before 9:00, and checked in without issue. When we checked in our room wasn't free, however we were given access to the hotel gym and were able to shower and freshen up there. After getting rid of the grime from our 24 hours of travel we went back downstairs to the lobby, where we learned that our room had become available. We took the key, quickly dropped our bags off, and then headed out for the day.
 

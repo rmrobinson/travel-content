@@ -1,10 +1,18 @@
-+++
-date = "2019-05-31T20:30:00+10:00"
-draft = false
-title = "Australia Day 12"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-
-+++
+---
+date: "2019-05-31T20:30:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+  - "royalnationalpark"
+title: "Day 12"
+summary: "Royal National Park"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_1851.jpg"
+---
 
 Today we took a trip down to the Royal National Park to see the coast and enjoy the scenery. We got up around 6:30, had a quick breakfast at the AirBnB, and got ready to go. We walked from the AirBnB to a Budget car rental located at King's Cross, which was a short 10 minute walk away. As we walked up to the rental car office we noticed the hotel we had first stayed at in Sydney - it was just across the street! I had made the reservation the night before, and when we showed up just after 8:00 we had no issues picking up the car. We headed out in some rush hour traffic, but once we got out of the downtown core traffic lightened up. Our first site of the day was [Wedding Cake Rock](https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/wedding-cake-rock). This sandstone rock formation, located on the eastern coast of Australia, is notable as it stands on its own as a bright white slab of rock amongst the otherwise sand-coloured stone. The site isn't directly reachable by car, it is necessary to hike in several kilometres to reach it. The trail head is located at the edge of a small parking lot that is just outside Bundeena. We arrived at the trail head several minutes before 10:00, and headed out on the hike.
 

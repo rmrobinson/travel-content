@@ -10,7 +10,7 @@ trip:
   - "capetown"
   - "durban"
   - "stlucia"
-title: "Day 6"
+title: "Day 5"
 summary: "Cruising the St. Lucia estuary"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2018-06-south-africa/IMG_8150.jpg"
 ---

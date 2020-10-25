@@ -1,11 +1,20 @@
-+++
-date = "2019-05-22T21:00:00+10:00"
-draft = false
-title = "Australia Day 3"
-categories = [ "Travel", "Australia", "2019 Australia Exploration" ]
-flights = [ "TT676" ]
-
-+++
+---
+date: "2019-05-22T21:00:00+10:00"
+draft: false
+categories:
+  - "2019 Australia Exploration"
+  - "Travel"
+  - "Australia"
+trip:
+  visited_labels:
+  - "sydney"
+  - "cairns"
+flights:
+ - "TT676"
+title: "Day 3"
+summary: "From Sydney to Cairns"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/IMG_20190522_175404.jpg"
+---
 
 Today was an early morning! Our flight from Sydney to Cairns, on Tigerair, was scheduled to depart at 7:15, and even though the flight was domestic we wanted to be at the airport 90 minutes ahead of the flight. This meant an early start! We woke up at 4:15, quickly showered, packed and checked out of the hotel; we were walking back to the Museum subway station stop just before 5:00. We were treated to a beautiful view of the Anzac memorial lit up and nobody in sight as we reached the Museum stop. We caught the 5:16 subway to the airport, and reached the terminal shortly after 5:30. The airport wasn't very busy, so we were able to check in our bags and clear security in about 15 minutes, which gave us lots of time to grab breakfast. I had a bacon and egg McMuffin from McDonald's, while Todd had a bagel and a donut from Krispy Kreme. Boarding went quickly, and our flight had an on time departure.
 
