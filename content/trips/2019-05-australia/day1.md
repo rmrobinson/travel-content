@@ -9,7 +9,7 @@ trip:
   visited_labels:
   - "sydney"
 title: "Day 1"
-summary: "Touring the Sydney Harbour"
+summary: "Walking the Sydney Harbour"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-05-australia/DSC_0062.jpg"
 ---
 
