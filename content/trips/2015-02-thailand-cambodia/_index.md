@@ -3,8 +3,8 @@ title: "Our honeymoon"
 summary: "Thailand and Cambodia"
 map:
   files:
-    - "trips/maps/th.svg"
-    - "trips/maps/kh.svg"
+    - "trips/maps/2015-th.svg"
+    - "trips/maps/2015-kh.svg"
   highlight_element_colour: "#EDC7B4"
   set_stroke_and_fill: false
 trip:

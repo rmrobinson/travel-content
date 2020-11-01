@@ -8,4 +8,4 @@ map:
   set_stroke_and_fill: false
 ---
 
-I've been working my way around the world, and this is the collection of trips I've had the time to write up and share with the world!
+I've been working my way around the globe, and this is the collection of trips I've had the time to write up and share with the world!
