@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Robert's blog"
+title = "Robert's Travels"
 theme = "hugo-traveler"
 
 [author]
@@ -8,4 +8,4 @@ theme = "hugo-traveler"
    FirstName = "Robert"
    LastName = "Robinson"
    Location = "Kitchener, ON"
-   AboutPage = "/about"
+   AboutPage = "https://blog.rmrobinson.ca"
