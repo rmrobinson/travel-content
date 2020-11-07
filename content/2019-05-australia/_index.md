@@ -1,6 +1,7 @@
 ---
 title: "Going down Under"
 summary: "Diving the Great Barrier Reef"
+date: "2019-05-18"
 map:
   files:
     - "trips/maps/2019-au.svg"
