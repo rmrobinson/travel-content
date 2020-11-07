@@ -1,6 +1,7 @@
 ---
 title: "Our honeymoon"
 summary: "Thailand and Cambodia"
+date: "2015-02-06"
 map:
   files:
     - "trips/maps/2015-th.svg"

@@ -1,6 +1,7 @@
 ---
 title: "Driving Highway 1"
 summary: "Iceland in the Fall"
+date: "2017-09-19"
 map:
   files:
     - "trips/maps/2017-is.svg"

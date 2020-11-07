@@ -1,6 +1,7 @@
 ---
 title: "Going on Safari"
 summary: "A bus tour through South Africa"
+date: "2018-06-14"
 map:
   files:
     - "trips/maps/2018-za.svg"
