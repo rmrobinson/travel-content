@@ -2,13 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Robert's blog"
 theme = "hugo-traveler"
-SectionPagesMenu = "main"
-Paginate = 10
-
-[params]
-   RSSEnabled = true
-   ShowCopyright = true
-   Description = "This is my little corner of the Internet. Enjoy!"
 
 [author]
    Handle = "rmrobinson"
@@ -16,15 +9,3 @@ Paginate = 10
    LastName = "Robinson"
    Location = "Kitchener, ON"
    AboutPage = "/about"
-
-[[menu.main]]
-	name = "Trips"
-	weight = 2
-	identifier = "trips"
-	url = "/trips/"
-
-[[menu.main]]
-	name = "About"
-	weight = 3
-	identifier = "about"
-	url = "/about"

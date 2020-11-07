@@ -1,0 +1,3 @@
+[submodule "themes/hugo-traveler"]
+	path = themes/hugo-traveler
+	url = https://github.com/rmrobinson/hugo-traveler
