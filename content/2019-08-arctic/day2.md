@@ -1,9 +1,18 @@
-+++
-date = "2019-08-11T20:00:00-07:00"
-draft = false
-title = "Arctic Day 2"
-categories = [ "Travel", "Arctic", "2019 Dempster Drive" ]
-+++
+---
+date: "2019-08-11T20:00:00-07:00"
+draft: false
+categories:
+  - "2019 Dempster Drive"
+  - "Travel"
+  - "Arctic"
+trip:
+  visited_labels:
+  - "whitehorse"
+  - "dawson"
+title: "Day 2"
+summary: "Joining the gold rush"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-08-arctic/DSC_0096.jpg"
+---
 
 This was the first day on the road! We were leaving Whitehorse and driving to Dawson City, a roughly 500 km drive that Google estimated would take 6 hours (excluding stops). In order to give ourselves lots of time for the drive we woke up at 6:30. Patrick and I each had a quick shower, packed up and checked out at 7:00. We had planned on picking Dan and Thyra up at 7:30, so with a bit of time to spare we walked to the Starbucks for a coffee and breakfast sandwich. We were remarking that this is probably one of the northernmost Starbucks locations in the world; though we needed to confirm that when we got back (*edit: Whitehorse has the northernmost Starbucks in Canada, however Fairbanks is home to the northernmost Starbucks in the world*). While we were walking to breakfast we passed by the Whitehorse Pride intersection, which had both rainbow pride and trans pride crosswalks. This was an unexpected but welcomed bit of inclusiveness in the Arctic. After having a quick breakfast we headed to Jeremy's house, where we picked up Dan, Thyra and some camping supplies. The trunk was full by the time we had everything packed in but it hardly felt cramped in the vehicle as we waved goodbye to Jeremy.
 

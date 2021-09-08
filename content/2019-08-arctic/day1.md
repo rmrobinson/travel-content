@@ -1,10 +1,20 @@
-+++
-date = "2019-08-10T18:00:00-07:00"
-draft = false
-title = "Arctic Day 1"
-categories = [ "Travel", "Arctic", "2019 Dempster Drive" ]
-flights = [ "WS653", "WS505" ]
-+++
+---
+date: "2019-08-10T18:00:00-07:00"
+draft: false
+categories:
+  - "2019 Dempster Drive"
+  - "Travel"
+  - "Arctic"
+trip:
+  visited_labels:
+  - "whitehorse"
+flights:
+  - "WS653"
+  - "WS505"
+title: "Day 1"
+summary: "From Toronto to Whitehorse"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-08-arctic/DSC_0013.jpg"
+---
 
 My trip to the arctic began early in the morning when I woke up in the [Four Points by Sheraton](https://www.marriott.com/hotels/travel/yyzpa-four-points-toronto-airport/) just outside Pearson airport. One of my travelling companions, Patrick, and I had shared a hotel room to avoid a very early morning drive up from Kitchener. We had an early day - our first flight (WS653) was scheduled to depart YYZ at 6:45 and was scheduled to land in Calgary at 9:00 local. Our second flight was scheduled to depart just one hour later, at 10:00 local, and land in Whitehorse about 2.5 hours later. We woke up early; my alarm went off at 4:45, and after quickly getting ready we walked out the front door of the hotel at 5:15. It was a short, 5 minute walk to Terminal 3. We had both checked in the day before and were only bringing carry on bags, which allowed us to go immediately to the security line. It was a good thing that we left early, as the security line was quite slow, luckily there were no complications and we were able to clear security around 5:50. We walked to the Terminal 3 food court, where we both ordered breakfast sandwiches from the Smash burger chain. We ate them quickly and reached our departure gate just as priority boarding was starting. The plane was full but there was enough room for our carry-on suitcases in the overhead bins. We were seated in Row 4, in seats D and E, which we hoped would help us as we had a tight connection and this would save time during deplaning.
 

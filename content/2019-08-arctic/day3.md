@@ -1,9 +1,18 @@
-+++
-date = "2019-08-12T20:00:00-07:00"
-draft = true
-title = "Arctic Day 3"
-categories = [ "Travel", "Arctic", "2019 Dempster Drive" ]
-+++
+---
+date: "2019-08-12T20:00:00-07:00"
+draft: false
+categories:
+  - "2019 Dempster Drive"
+  - "Travel"
+  - "Arctic"
+trip:
+  visited_labels:
+  - "dawson"
+  - "eagleplains"
+title: "Day 3"
+summary: "Leaving pavement behind"
+header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2019-08-arctic/IMG_20190812_124253.jpg"
+---
 
 This was the day that we left paved roads behind and started up the Dempster Highway. The plan was to leave Dawson City early, leaving us with more than enough time to make it to the Eagle Plains lodge before evening. I had set my alarm for 7:00 the night before; and when it went off I got up, showered, packed, and headed down to the lobby at 7:50. The hotel staff had laid out warm croissants and cheese in front of every room early in the morning; I snacked on these while I drank a coffee in the lobby. Patrick, Dan and Thyra were only moments behind; we loaded up the car and checked out just after 8:00. We drove a block over to [Triple J's](http://triplejhotel.com/) for breakfast. This restaurant had been a recommendation of Jeremy's as a good place to eat, and we certainly enjoyed our meals there. I had a breakfast wrap with eggs, bacon, cheese and salsa - it also came with a generous serving of home fries, and it was very tasty. I wasn't able to finish the home fries as the portion was just too big. After breakfast we filled up the Yukon with gas and were our way to the Dempster highway shortly after 9:00.
 
