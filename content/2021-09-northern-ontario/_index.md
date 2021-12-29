@@ -19,4 +19,4 @@ After a long year and a half of COVID-19 restrictions, I was looking forward to 
 
 Overall I would highly recommend a visit to Northern Ontario!
 
-Note: the yellow lightning bolts on the map below represent a Tesla Supercharger, while hte green lightning bolts represent a more typical charging point.
+Note: the yellow lightning bolts on the map below represent a Tesla Supercharger, while the green lightning bolts represent a more typical charging point.
