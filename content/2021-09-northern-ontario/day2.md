@@ -8,8 +8,9 @@ categories:
 trip:
   visited_labels:
   - "sudbury"
-  - "timmins"
+  - "timmins_charger"
   - "cochrane"
+  - "cochrane_charger"
 title: "Day 2"
 summary: "Reaching Cochrane"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0823.jpg"

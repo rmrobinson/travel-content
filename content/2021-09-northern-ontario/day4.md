@@ -8,6 +8,8 @@ categories:
 trip:
   visited_labels:
   - "petawawa"
+  - "huntsville_supercharger"
+  - "mississauga_supercharger"
   - "kitchener"
 title: "Day 4"
 summary: "Algonquin Park and home"

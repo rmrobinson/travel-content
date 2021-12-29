@@ -8,7 +8,8 @@ categories:
 trip:
   visited_labels:
   - "cochrane"
-  - "northbay"
+  - "northbay_supercharger"
+  - "chalk_river_supercharger"
   - "petawawa"
 title: "Day 3"
 summary: "Onward to Petawawa"
