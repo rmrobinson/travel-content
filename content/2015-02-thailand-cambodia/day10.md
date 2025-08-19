@@ -7,6 +7,7 @@ categories:
   - "Travel"
   - "Thailand"
 trip:
+  mapid: "thailand"
   visited_labels:
   - "THA377"
   - "THA416"

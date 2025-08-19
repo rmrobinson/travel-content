@@ -2,11 +2,6 @@
 title: "Touring Northern Ontario"
 summary: "A mid-COVID Tesla trip"
 date: "2021-09-01"
-map:
-  files:
-    - "trips/maps/2021-on.svg"
-  highlight_element_colour: "#EDC7B4"
-  set_stroke_and_fill: true
 trip:
   visited_labels:
   - "CA"
@@ -20,3 +15,5 @@ After a long year and a half of COVID-19 restrictions, I was looking forward to 
 Overall I would highly recommend a visit to Northern Ontario!
 
 Note: the yellow lightning bolts on the map below represent a Tesla Supercharger, while the green lightning bolts represent a more typical charging point.
+
+{{< svgmap id="northern-ontario" path="trips/maps/2021-on.svg" entryType="page" highlightColour="#EDC7B4" setStrokeAndFill=true >}}

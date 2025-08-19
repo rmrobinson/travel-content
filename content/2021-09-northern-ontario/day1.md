@@ -25,7 +25,7 @@ We drove up to Toronto, opting not to take the 407 and instead take the 401 to t
 
 We continued on, driving north on the 400. I was behind the wheel for this leg of the trip, and this was my first time driving a Tesla. The regenerative braking kicks in as soon as the driver stops pressing the accelerator pedal, and this took some getting used to when navigating the parking lot. The car has a lot of pep to it - as we were merging onto the 400 from the on-ramp it was trivial to get the car to highway speed well before the merge was even required. We stayed on the 400 all the way to Parry Sound. Traffic was fairly light, so we made good time and arrived around 13:00. We pulled into the supercharger in front of the Parry Sound Inn & Suites, which was right beside the highway. There was an available charging point, and we left the car to charge while we had lunch. The closest place to eat was a McDonald's a short walk from the supercharger, however there were no sidewalks, so we had to walk on the side of the road to get to lunch. This was the first restaurant I had eaten indoors at since the start of the pandemic. It was a day of firsts!
 
-{{< figure title="About all we saw of Parry Sound" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210901_173504242.MP.jpg" >}}
+{{< photo caption="About all we saw of Parry Sound" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210901_173504242.MP.jpg" >}}
 
 After a quick lunch at McDonald's we walked back to the car. It had charged more than enough to allow us to reach Sudbury, so we unplugged and headed out. Patrick took the wheel for this stretch of the highway.
 
@@ -33,36 +33,32 @@ We drove without stopping until we reached our destination for the day, Sudbury.
 
 When we reached Sudbury we still had over 100 km of range in the battery, so we decided to go and do some sightseeing. We started by going to one of the better known Sudbury icons - the [Big Nickel](https://en.wikipedia.org/wiki/Big_Nickel). The nickel is a replica of the 5 cent Canadian coin as it looked in 1951, and is the largest coin in the world. The Big Nickel is located on a hill that overlooks the city, and when we reached the parking lot we were able to look both across the city and at the coin. We milled around for a bit, took some photos, then got back into the car and continued on. There wasn't really much to do besides look at the coin - the museum located at the site was closed on Wednesdays.
 
-{{< figure title="Had to drive past my subdivision on the way to the Big Nickel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210901_195117000.MP.jpg" >}}
+{{< photo caption="Had to drive past my subdivision on the way to the Big Nickel" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210901_195117000.MP.jpg" >}}
 
-{{< figure title="The Big Nickel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0770.jpg" >}}
+{{< photo caption="The Big Nickel" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0770.jpg" >}}
 
 The next place in Sudbury that we visited was the site of [Canada's largest mural](https://www.cbc.ca/news/canada/sudbury/hospital-mural-community-debate-1.5255187). The city had a graffiti artist, known as RISK, decorate the 80,000 square feet exterior of the old Sudbury hospital in 2019. The resulting multi-colour display is the largest mural in Canada. After parking we took some photos of the hospital, and then walked along the Bell Park boardwalk towards Science North and took in the sights of Hermit's Bay. We returned to the car around 17:00 and drove downtown.
 
-{{< photorow >}}
-{{< lightbox title="Canada's Largest Mural" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0780.jpg" >}}
-{{< lightbox title="An island in the city" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0783.jpg" >}}
-{{< lightbox title="Science North" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0793.jpg" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="Yacht Club in Hermit's Bay" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0795.jpg" >}}
-{{< lightbox title="A monument to the miners of Sudbury" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0797.jpg" >}}
-{{< lightbox title="Canada's Largest Mural" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0800.jpg" >}}
-{{< /photorow >}}
+{{< photogallery id="day1gallery1" layout="gallery" caption="Downtown Sudbury" >}}
+{{< photo caption="Canada's Largest Mural" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0780.jpg" >}}
+{{< photo caption="An island in the city" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0783.jpg" >}}
+{{< photo caption="Science North" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0793.jpg" >}}
+{{< photo caption="Yacht Club in Hermit's Bay" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0795.jpg" >}}
+{{< photo caption="A monument to the miners of Sudbury" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0797.jpg" >}}
+{{< photo caption="Canada's Largest Mural" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0800.jpg" >}}
+{{< /photogallery >}}
 
 We found street parking just off Durham Street, and then did a small walking tour around what seemed to be the lively part of the downtown. There were some interesting murals on the buildings off Durham Street, however we didn't see much else. We ended up deciding to have dinner at a restaurant named [Respect is Burning](http://www.ribsupperclub.com/), where Patrick had a pizza and I had their carbonara. Overall we had a pretty good meal.
 
-{{< photorow >}}
-{{< lightbox title="Mural in Downtown Sudbury" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0802.jpg" >}}
-{{< lightbox title="Mural in Downtown Sudbury" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0803.jpg" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="Inukshuk in a traffic circle" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0804.jpg" >}}
-{{< lightbox title="Mural in Downtown Sudbury" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0806.jpg" >}}
-{{< /photorow >}}
+{{< photogallery id="day1gallery2" layout="gallery" caption="More of downtown Sudbury" >}}
+{{< photo caption="Mural in Downtown Sudbury" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0802.jpg" >}}
+{{< photo caption="Mural in Downtown Sudbury" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0803.jpg" >}}
+{{< photo caption="Inukshuk in a traffic circle" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0804.jpg" >}}
+{{< photo caption="Mural in Downtown Sudbury" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/DSC_0806.jpg" >}}
+{{< /photogallery >}}
 
 After dinner we returned to the car and drove to the Supercharging point in Sudbury, which was in a fairly inconvenient location on the outskirts of the city, near where we drove in. We plugged the car in and walked through the Wal-Mart that was across the street from it to kill time. We picked up some candies to snack on, and then returned to the car, where we played a couple of games on the centre console while charging continued. This ended up being our longest charge of the day, as we wanted to make sure we had as much range as possible ahead of our drive up to Cochrane tomorrow.
 
 After about 40 minutes the car was full, and we drove around the city and past the Lake Laurential Conservation area to reach our hotel. On the second leg of the day Patrick had been looking for our hotel for the evening, and had booked us a room at the [TownePlace Suites](https://www.marriott.com/hotels/travel/ysbts-towneplace-suites-sudbury). We checked in, dropped our stuff off in the room, then walked over to the [MIC Canadian Eater & Whisky Pub](https://micrestaurant.ca/) for a nightcap. We were able to get space on the porch outside, however it was fairly chilly and we only had one drink before we returned to the room and headed to sleep.
 
-{{< figure title="Cocktails before bed" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210902_004254295.jpg" >}}
+{{< photo caption="Cocktails before bed" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2021-09-northern-ontario/PXL_20210902_004254295.jpg" >}}

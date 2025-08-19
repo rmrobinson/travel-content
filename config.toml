@@ -1,11 +1,12 @@
-baseURL = "/"
+baseURL = "https://travel.rmrobinson.ca/"
 languageCode = "en-us"
 title = "Robert's Travels"
 theme = "hugo-traveler"
 
-[author]
-   Handle = "rmrobinson"
-   FirstName = "Robert"
-   LastName = "Robinson"
-   Location = "Kitchener, ON"
-   AboutPage = "https://blog.rmrobinson.ca"
+[params]
+   [params.author]
+      Handle = "rmrobinson"
+      FirstName = "Robert"
+      LastName = "Robinson"
+      Location = "Kitchener, ON"
+      AboutPage = "https://blog.rmrobinson.ca"
