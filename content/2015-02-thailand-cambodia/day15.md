@@ -7,6 +7,7 @@ categories:
   - "Travel"
   - "Thailand"
 trip:
+  mapid: "thailand"
   visited_labels:
   - "THA416"
 summary: "The long trip home"

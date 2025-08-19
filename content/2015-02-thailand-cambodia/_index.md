@@ -2,12 +2,6 @@
 title: "Our honeymoon"
 summary: "Thailand and Cambodia"
 date: "2015-02-06"
-map:
-  files:
-    - "trips/maps/2015-th.svg"
-    - "trips/maps/2015-kh.svg"
-  highlight_element_colour: "#EDC7B4"
-  set_stroke_and_fill: false
 trip:
   visited_labels:
   - "TH"
@@ -22,3 +16,8 @@ Several months after getting married, Todd and I enjoyed a two week honeymoon in
 Thailand was beautiful, but the highlight of this trip was definitely seeing Angkor Wat. We only spent a day touring through the ruins, but could have easily spent two or three full days just to see all the majesty that the Angkor region has to offer.
 
 The flight home might count as one of the longest travel days I'll ever experience. We flew in to Bangkok from Chiang Mai quite late in the evening, and had an early morning departure from Bangkok so we stayed over in the airport. We then flew back through Tokyo Narita and Washington Dulles, only to land in a huge snowstorm that was getting worse. We managed to make our way onto a flight that took us west to Denver, where we spent another night in the airport, before catching an early morning flight home to Toronto. All in all it took 5 planes, 2 overnight stays in airports and just over 50 hours to make it to Toronto. Our bags didn't make it (not at all surprisingly), but we had our car keys so we were able to get home without any issues!
+
+{{< columns >}}
+{{< svgmap id="thailand" path="trips/maps/2015-th.svg" entryType="page" highlightColour="#EDC7B4" >}}
+{{< svgmap id="cambodia" path="trips/maps/2015-kh.svg" entryType="page" highlightColour="#EDC7B4" >}}
+{{< /columns >}}

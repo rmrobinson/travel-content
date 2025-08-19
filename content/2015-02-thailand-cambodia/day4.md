@@ -7,6 +7,7 @@ categories:
   - "Travel"
   - "Thailand"
 trip:
+  mapid: "thailand"
   visited_labels:
   - "THA416"
   - "KHM1781"
@@ -17,46 +18,38 @@ header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2
 We continued our tour of the major temples in Bangkok by visiting Wat Pho and Wat Arun today. After sleeping in and having a quick swim in the hotel pool after breakfast, we packed up our overnight bags for Cambodia and packed everything else into our suitcases, which the hotel was holding for us until our return the following evening. We checked out of the hotel at noon, with our bags safely stored in the hotel bag area, then we hopped onto the sky train for the quick trip back to the Chao Phraya river and got on a ferry heading upriver. We didn't get the full day pass, as we had yesterday, since we planned on getting to the airport for our flight to Siem Reap via cab or train from the downtown area.
 
 We disembarked the ferry at the Wat Pho station, and then walked from the station to the temple. The temple was, in some respects, neater than the Grand Palace; it had just as many buildings to see, and the statue of the reclining Buddha was very impressive. At 15m high and 46m long, it dominated the building enclosing it, and left an impact on all who saw it. This complex also took us several hours to visit, but we felt that we had enough time to see everything worth seeing.
-{{< photorow >}}
-{{< lightbox title="Todd and I outside the structure enclosing the reclining Buddha" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1955.JPG" >}}
-{{< lightbox title="A view of the scope of the complex" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1956.JPG" >}}
-{{< lightbox title="Todd in front of some carefully-detailed structures" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2005.JPG" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="The gates were guarded by imposing statues" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1999.JPG" >}}
-{{< lightbox title="The walls were covered in murals with gold leaf, just as in the Great Palace" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1987.JPG" >}}
-{{< lightbox title="Another statue" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2013.JPG" >}}
-{{< lightbox title="A close-up of a figure on the foot" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1982.JPG" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="The head of the reclining Buddha" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1968.JPG" >}}
-{{< lightbox title="The front..." src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1979.JPG" >}}
-{{< lightbox title="...and back of the statue" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1990.JPG" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="The feet are stone with inlaid mother-of-pearl" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1981.JPG" >}}
-{{< lightbox title="The external corridors were often lined with statues of Buddha" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2022.JPG" >}}
-{{< lightbox title="Phra Ubosot, the most sacred building in the complex" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2040.JPG" >}}
-{{< lightbox title="A good example of the architecture of the buildings in the complex" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2076.JPG" >}}
-{{< /photorow >}}
+{{< photogallery id="day4gallery1" layout="gallery" >}}
+{{< photo caption="Todd and I outside the structure enclosing the reclining Buddha" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1955.JPG" >}}
+{{< photo caption="A view of the scope of the complex" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1956.JPG" >}}
+{{< photo caption="Todd in front of some carefully-detailed structures" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2005.JPG" >}}
+{{< photo caption="The gates were guarded by imposing statues" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1999.JPG" >}}
+{{< photo caption="The walls were covered in murals with gold leaf, just as in the Great Palace" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1987.JPG" >}}
+{{< photo caption="Another statue" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2013.JPG" >}}
+{{< photo caption="A close-up of a figure on the foot" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1982.JPG" >}}
+{{< photo caption="The head of the reclining Buddha" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1968.JPG" >}}
+{{< photo caption="The front..." url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1979.JPG" >}}
+{{< photo caption="...and back of the statue" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1990.JPG" >}}
+{{< photo caption="The feet are stone with inlaid mother-of-pearl" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_1981.JPG" >}}
+{{< photo caption="The external corridors were often lined with statues of Buddha" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2022.JPG" >}}
+{{< photo caption="Phra Ubosot, the most sacred building in the complex" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2040.JPG" >}}
+{{< photo caption="A good example of the architecture of the buildings in the complex" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2076.JPG" >}}
+{{< /photogallery >}}
 
 After wrapping up at the Wat Pho temple we walked back to the ferry station for lunch. There were a number of small vendors set up just outside the ferry station, offering a variety of Thai staples. We chose some street pad thai for lunch, and were very impressed with the quality given the location and price. After lunch we took a quick hop across the river on a ferry which just shuttled people between the Wat Pho and the Wat Arun ferry stations.
-{{< figure title="The ferry between Wat Pho and Wat Arun. Standing room only!" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2166.JPG" >}}
+{{< photo caption="The ferry between Wat Pho and Wat Arun. Standing room only!" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2166.JPG" >}}
 
 Wat Arun is much smaller than both the Grand Palace and Wat Pho, as it consisted only of a single structure. Staircases lead up all four sides of the structure; however, only one of the staircases is open for tourists above the first landing. Tourists are only allowed to go about halfway up the structure, however this is high enough to supply a fantastic view of the downtown core of Bangkok, both the Wat Pho temple and the Grand Palace, as well as the surrounding city. The temple staircases are incredibly steep; it seems surprising that people were able to make it up the exterior of the temple without the recently-installed metal railings.
-{{< photorow >}}
-{{< lightbox title="The top of Wat Arun from a distance" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2102.JPG" >}}
-{{< lightbox title="The staircase. The second story is much steeper than the first" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2114.JPG" >}}
-{{< lightbox title="Chilling with a monkey soldier" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2120.JPG" >}}
-{{< lightbox title="The staircase was very steep" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2144.JPG" >}}
-{{< /photorow >}}
-{{< photorow >}}
-{{< lightbox title="Looking out from the top. The spire on the right was under renovation" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2136.JPG" >}}
-{{< lightbox title="The Wat Arun complex, a spire under renovation is visible at the left" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2160.JPG" >}}
-{{< /photorow >}}
+{{< photogallery id="day4gallery2" layout="gallery" >}}
+{{< photo caption="The top of Wat Arun from a distance" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2102.JPG" >}}
+{{< photo caption="The staircase. The second story is much steeper than the first" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2114.JPG" >}}
+{{< photo caption="Chilling with a monkey soldier" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2120.JPG" >}}
+{{< photo caption="The staircase was very steep" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2144.JPG" >}}
+{{< photo caption="Looking out from the top. The spire on the right was under renovation" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2136.JPG" >}}
+{{< photo caption="The Wat Arun complex, a spire under renovation is visible at the left" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2160.JPG" >}}
+{{< /photogallery >}}
 
 After descending from Wat Arun we crossed the river again using the same ferry which brought us over originally. We started walking towards Wat Traimit, a temple in downtown which holds the largest solid gold statue of Buddha in the world. Unfortunately, we got a bit lost on our walk, and by the time we arrived at the temple it was closed. Temples close fairly early in Bangkok, typically at 4:30 PM. By this point it was getting a bit late, and our flight to Siem Reap was scheduled to depart from the Don Mueang airport at 7:30 PM, so we started to make our way towards the airport. This was a bit tricky, as Don Mueang is a fair hike from the downtown core where we were.
-{{< figure title="The front of Wat Traimit" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2173.JPG" >}}
+{{< photo caption="The front of Wat Traimit" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2015-02-thailand-cambodia/IMG_2173.JPG" >}}
 
 My plan was to take a cab to the airport, so we headed to the Hua Lamphong train station, which was just a short walk away from the Wait Tramit temple. It seemed obvious that a cab would be easy to find waiting for disembarking train passengers. As we were walking I started second guessing my plan, based on the notoriously busy traffic in downtown Bangkok, and started to worry we would be stuck in traffic and miss our flight. I decided to change plans and instead take the train from Hua Lamphong to Don Mueang, which is serviced by the rail line.
 
