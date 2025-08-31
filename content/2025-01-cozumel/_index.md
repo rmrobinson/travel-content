@@ -1,6 +1,6 @@
 ---
 title: "Diving in Cozumel"
-summary: "Escaping winter under the sea"
+summary: "A short break from winter"
 date: "2025-01-26"
 trip:
   visited_labels:
