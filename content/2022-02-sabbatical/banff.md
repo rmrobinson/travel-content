@@ -6,24 +6,27 @@ categories:
   - "Travel"
   - "Canada"
 trip:
-  visited_labels:
-  - "banff"
+  places_visited:
+    - banff
 title: "Banff"
-summary: "Base of the rockies"
+summary: "Hiking Bow Falls"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220313_183217673.MP.jpg"
-
 ---
 
-{{< figure title="Banff Springs Hotel" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220313_183217673.MP.jpg" >}}
+A classic walk in the town of Banff takes you along the Bow River, to Bow Falls. I did this walk several times while in Banff; and the ice formations you can see on the river are pretty impressive.
 
-{{< figure title="Bow Falls" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0045.jpg" >}}
+{{< photo caption="Banff Springs Hotel" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220313_183217673.MP.jpg" >}}
 
-{{< figure title="Bow Falls" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0048.jpg" >}}
+The Banff Springs Hotel was constructed by the Canadian Pacific Railway to serve as a tourist destination the Canadian Rockies early in the 20th century. It is an impressive structure to see, and you get a great view of it among the trees on the trail.
 
-{{< figure title="Bow Falls" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0050.jpg" >}}
+{{< photogallery id="bowFalls" layout="gallery" caption="Bow Falls" >}}
+{{< photo caption="Ice on the river" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0045.jpg" >}}
+{{< photo caption="Bow Falls" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0048.jpg" >}}
+{{< photo caption="The partially frozen river" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0050.jpg" >}}
+{{< photo caption="An ice shelf overhanging the river" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0052.jpg" >}}
+{{< photo caption="The CP Rail bridge across the Bow River" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0057.jpg" >}}
+{{< /photogallery >}}
 
-{{< figure title="Bow Falls" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0052.jpg" >}}
+There are still many parks and forests in the park - and you can find interesting-looking trees along the river.
 
-{{< figure title="Bow Falls" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/DSC_0057.jpg" >}}
-
-{{< figure title="Tree with sap" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220313_182019079.jpg" >}}
+{{< photo caption="Tree with sap" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220313_182019079.jpg" >}}

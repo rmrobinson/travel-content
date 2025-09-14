@@ -6,16 +6,17 @@ categories:
   - "Travel"
   - "Canada"
 trip:
-  visited_labels:
-  - "calgary"
+  places_visited:
+    - calgary
 title: "Calgary"
 summary: "Visiting Cowtown"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220226_221032719.jpg"
-
 ---
 
-{{< figure title="Downtown Calgary with a chinook arch" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220226_221032719.jpg" >}}
+While the primary purpose of my trip was skiing, I did make it in to Calgary a few times to visit with friends and relatives. I only took a few photos but they were neat ones!
 
-{{< figure title="Early sunrise" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220317_125706757.MP.jpg" >}}
+{{< photo caption="Downtown Calgary with a chinook arch" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220226_221032719.jpg" >}}
 
-{{< figure title="Sunrise progressing" src="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220317_125745793.jpg" >}}
+{{< photo caption="Early sunrise on Highway 1" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220317_125706757.MP.jpg" >}}
+
+{{< photo caption="Calgary and the sunrise in the distance" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2022-02-sabbatical/PXL_20220317_125745793.jpg" >}}
