@@ -10,3 +10,6 @@ theme = "hugo-traveler"
       LastName = "Robinson"
       Location = "Kitchener, ON"
       AboutPage = "https://blog.rmrobinson.ca"
+
+[taxonomies]
+   tag = 'tags'

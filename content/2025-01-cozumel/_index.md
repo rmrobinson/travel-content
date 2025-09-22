@@ -6,8 +6,10 @@ trip:
   visited_labels:
   - "MX"
   start_date: "2025-01-26"
-  end_date: "2021-02-02"
+  end_date: "2025-02-02"
 header_image_path: "https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2025-cozumel/1738261890685.jpg"
+tags:
+- "diving"
 ---
 
 The focus of this trip was scuba diving - of the 7 days we were in Cozumel, 5 of them were spent underwater. We were in good company - Cozumel is a popular vacation destination for scuba divers; over half of the guests at our hotel were also scuba divers. Its popularity can be attributed to the [Arrecifes de Cozumel National Park](https://en.wikipedia.org/wiki/Arrecifes_de_Cozumel_National_Park) just off the coast of the island - it protects part of the second largest barrier reef system in the world.
@@ -34,7 +36,7 @@ One of the perks of vacationing in Cozumel is that Air Canada has a direct fligh
 
 After a couple of dives, our surface interval, and the boat ride back we were eating lunch before 1 PM each afternoon. This gave us several hours by the pool to read and relax, before a nice dinner at one of the restaurants at the hotel. The hotel was an all-inclusive, however unlike many it wasn't necessary to make reservations in the non-buffet restaurants for dinner. I really enjoyed the food at the resort - it was better than many of the other all-inclusive resorts I've been to. We took Saturday and Sunday morning off diving, and spent it enjoying the hotel. They had an archery range, and so Saturday afternoon I did a bit of archery with some of the other guests. I also made it through all 3 of the books I'd packed, along with 2 of the books Todd had packed.
 
-Below are a selection of the photos I took underwater. The diving really was quite great in Cozumel, I would consider going back again!
+Below are a selection of the photos I took underwater. These photos were taken using a Pixel 6 Pro phone, in a Kraken KRH08 v2 underwater case. This was the second dive trip I'd used the case, and while I had some issues originally with their app crashing, their new camera app worked much better on this trip. The diving really was quite great in Cozumel, I would consider going back again!
 
 {{< photogallery id="fish" layout="gallery" caption="There were many varieties of fish we encountered" >}}
 {{< photo caption="A French angelfish swimming away" url="https://s3.us-east-2.amazonaws.com/rmrobins-website-photos/2025-cozumel/1738261506019.jpg" >}}
